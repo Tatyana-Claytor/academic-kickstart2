@@ -14,28 +14,28 @@ role: Virtual Instructor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Florida Virtual School
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Tatyana Claytor is an online English instructor at Florida Virtual School. Her research interests include virtual education, Children and YA Fantasy and Science fiction, and film.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Virtual Education
+- Children and YA Fantasy and Science fiction
+- Film
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Texts and Technology
+    institution: University of Central Florida
+    year: 2024
+  - course: M.A. in Professional Writing
+    institution: Liberty University
+    year: 2018
+  - course: M.Ed. Technology Integration
+    institution: Nova Southeastern University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
