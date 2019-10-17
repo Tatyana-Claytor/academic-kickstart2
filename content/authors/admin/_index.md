@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Virtual Instructor
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
