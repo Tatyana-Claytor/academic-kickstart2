@@ -40,7 +40,6 @@ date_format = "Jan 2006"
   date_start = "2011-08-01"
   date_end = "2015-05-01"
   description = """Taught 9th-12th literature, thesis, electronic publishing, and photography."""
-
   """
 
 [[experience]]
