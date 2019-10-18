@@ -41,4 +41,15 @@ date_format = "Jan 2006"
   date_end = "2015-05-01"
   description = """Taught 9th-12th literature, thesis, electronic publishing, and photography."""
 
+  """
+
+[[experience]]
+  title = "Adjunct Professor and Academic Support Center Tutor"
+  company = "Indian River State College"
+  company_url = ""
+  location = "Florida"
+  date_start = "2010-08-01"
+  date_end = "2015-05-01"
+  description = """Taught Writing Prep and Technology for Educators as well as tutored students in reading and writing skills."""
+
 +++
