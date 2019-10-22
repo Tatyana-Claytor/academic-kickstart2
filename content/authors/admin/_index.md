@@ -54,6 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Tatyana-Claytor
+- icon: cv
+  icon_pack:ai
+  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Tatyana Claytor has taught for over eighteen years in various settings: Chinese and Bolivian international schools, online, college, public, and private. Her focus is English literature and Electronic Publishing. Her research interests are Children and YA Fantasy and Sci-fi literature and film. 
+Tatyana Claytor has taught for over eighteen years in various settings: Chinese and Bolivian international schools, online, college, public, and private. Her focus is English literature and Electronic Publishing. Her research interests are Children and YA Fantasy and Sci-fi literature and film.
