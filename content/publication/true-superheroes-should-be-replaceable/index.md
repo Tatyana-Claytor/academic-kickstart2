@@ -3,7 +3,7 @@
 
 title: "True Superheroes Should Be Replaceable"
 authors: []
-date: 2019-10-23T17:13:02-04:00
+date: 2018-09-12T17:13:02-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: https://the-artifice.com/superheroes-replaceable/
 url_dataset:
 url_poster:
 url_project:
@@ -46,7 +46,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
