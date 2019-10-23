@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Cheating Audiences With Fake Sacrifices"
-authors: [Tatyana Claytor]
-date: 2019-10-23T15:40:51-04:00
+authors: []
+date: 2018-12-06T15:40:51-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://the-artifice.com/cheating-audiences/
-url_code:
+url_pdf:
+url_code: https://the-artifice.com/cheating-audiences/
 url_dataset:
 url_poster:
 url_project:
