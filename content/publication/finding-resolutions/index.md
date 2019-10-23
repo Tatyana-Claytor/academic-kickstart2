@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Cheating Audiences With Fake Sacrifices"
+title: "Finding Resolutions"
 authors: []
-date: 2019-10-23T16:02:19-04:00
+date: 2019-05-20T17:12:22-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-23T16:02:19-04:00
+publishDate: 2019-10-23T17:12:22-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,12 +37,12 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: http://www.fathommag.com/stories/finding-resolutions
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://the-artifice.com/cheating-audiences/
+url_source:
 url_video:
 
 # Featured image

@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Cheating Audiences With Fake Sacrifices"
+title: "The Dark Side of Romance in Movies"
 authors: []
-date: 2019-10-23T16:02:19-04:00
+date: 2019-10-23T17:12:46-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-23T16:02:19-04:00
+publishDate: 2019-10-23T17:12:46-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -42,11 +42,11 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://the-artifice.com/cheating-audiences/
+url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
