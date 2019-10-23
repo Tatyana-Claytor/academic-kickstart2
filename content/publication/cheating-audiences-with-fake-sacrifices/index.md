@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Cheating Audiences With Fake Sacrifices"
-authors: [Tatyana Claytor]
+authors: []
 date: 2019-10-23T15:40:51-04:00
 doi: ""
 
