@@ -37,12 +37,12 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code: https://the-artifice.com/superheroes-replaceable/
+url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://the-artifice.com/superheroes-replaceable/
 url_video:
 
 # Featured image

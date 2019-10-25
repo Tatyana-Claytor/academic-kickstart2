@@ -37,12 +37,12 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code: http://www.fathommag.com/stories/finding-resolutions
+url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: http://www.fathommag.com/stories/finding-resolutions
 url_video:
 
 # Featured image
