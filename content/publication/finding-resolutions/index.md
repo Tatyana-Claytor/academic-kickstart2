@@ -16,7 +16,7 @@ publishDate: 2019-10-23T17:12:22-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Fathm Mag"
+publication: "Fathom Mag"
 publication_short: ""
 
 abstract: ""
